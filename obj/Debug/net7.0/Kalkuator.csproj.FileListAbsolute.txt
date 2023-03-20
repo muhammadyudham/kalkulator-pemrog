@@ -1,0 +1,30 @@
+D:/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.exe
+D:/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.deps.json
+D:/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.runtimeconfig.json
+D:/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.dll
+D:/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.pdb
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.csproj.AssemblyReference.cache
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.GeneratedMSBuildEditorConfig.editorconfig
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.AssemblyInfoInputs.cache
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.AssemblyInfo.cs
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.csproj.CoreCompileInputs.cache
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.dll
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/refint/Kalkuator.dll
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.pdb
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.genruntimeconfig.cache
+D:/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/ref/Kalkuator.dll
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.deps.json
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.runtimeconfig.json
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.dll
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/bin/Debug/net7.0/Kalkuator.pdb
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.csproj.AssemblyReference.cache
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.GeneratedMSBuildEditorConfig.editorconfig
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.AssemblyInfoInputs.cache
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.AssemblyInfo.cs
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.csproj.CoreCompileInputs.cache
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.dll
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/refint/Kalkuator.dll
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.pdb
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/Kalkuator.genruntimeconfig.cache
+/run/media/maputra/New Volume1/Kuliah/Semester 2/Kalkulator/obj/Debug/net7.0/ref/Kalkuator.dll
